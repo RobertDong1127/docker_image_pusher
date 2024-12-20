@@ -1,3 +1,2 @@
-alpine:3.19.1
 nginx:latest
 mysql:latest
