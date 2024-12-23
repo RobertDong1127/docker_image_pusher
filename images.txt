@@ -1,2 +1,3 @@
 nginx:latest
 mysql:latest
+busybox
