@@ -2,4 +2,4 @@ nginx:latest
 mysql:latest
 busybox:latest
 redis
-
+nginx:1.27.2
