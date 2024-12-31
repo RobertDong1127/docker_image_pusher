@@ -1,5 +1,5 @@
 nginx:latest
 mysql:latest
-busybox:1.29.2
+busybox
 redis
 nginx:1.27.2
