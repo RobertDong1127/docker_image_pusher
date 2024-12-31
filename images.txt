@@ -1,3 +1,5 @@
 nginx:latest
 mysql:latest
-busybox
+busybox:latest
+redis
+
