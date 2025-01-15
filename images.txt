@@ -3,4 +3,4 @@ mysql:latest
 redis
 nginx:1.27.2
 busybox:1.36.1
-netshoot
+docker.io/nicolaka/netshoot
