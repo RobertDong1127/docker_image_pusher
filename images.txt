@@ -1,5 +1,2 @@
-redis:5.0.6-alpine
-redis:7.4.1
-mysql:8.0
 registry.cn-hangzhou.aliyuncs.com/library/redis:5.0.6-alpine
 registry.cn-hangzhou.aliyuncs.com/library/haproxy:2.0.4
