@@ -1,2 +1,1 @@
-redis:7.4.2
-haproxy:3.0.8
+haproxy:3.1
