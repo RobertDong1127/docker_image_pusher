@@ -1,2 +1,2 @@
-registry.cn-hangzhou.aliyuncs.com/library/redis:5.0.6-alpine
-registry.cn-hangzhou.aliyuncs.com/library/haproxy:2.0.4
+redis:7.4.2
+haproxy:3.0.8
