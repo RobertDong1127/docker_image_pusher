@@ -1,1 +1,1 @@
-gitlab:17.4.2
+alpinelinux/gitlab:17.4.2
