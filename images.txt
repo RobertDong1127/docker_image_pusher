@@ -1,1 +1,1 @@
-v5cn/prometheus-adapter
+chainguard/prometheus-adapter
