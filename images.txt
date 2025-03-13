@@ -1,1 +1,5 @@
-bitnami/nginx-exporter
+registry.gitlab.com/gitlab-org/build/cng/gitlab-toolbox-ce
+registry.gitlab.com/gitlab-org/build/cng/gitlab-sidekiq-ce
+registry.gitlab.com/gitlab-org/build/cng/gitlab-toolbox-ce
+registry.gitlab.com/gitlab-org/build/cng/gitlab-webservice-ce
+repository: registry.gitlab.com/gitlab-org/build/cng/gitlab-workhorse-ce
